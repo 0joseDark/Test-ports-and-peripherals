@@ -5,4 +5,4 @@
  "
 # pip install pyserial
 # pip install pyusb
-
+# pip install usbinfo
