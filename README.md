@@ -3,5 +3,6 @@
  "
  testar as portas usb e perifericos 
  "
- # pip install pyserial
+# pip install pyserial
+# pip install pyusb
 
