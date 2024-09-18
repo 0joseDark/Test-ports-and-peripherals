@@ -72,7 +72,7 @@ janela.title("Dispositivos USB conectados")
 
 # Definindo o tamanho da janela (mais larga e mais alta)
 janela.geometry("1024x800")  # 800x600 pixels
-janela.minsize(800, 600)  # Tamanho mínimo para evitar que a janela seja redimensionada para um tamanho muito pequeno
+janela.minsize(1024, 800)  # Tamanho mínimo para evitar que a janela seja redimensionada para um tamanho muito pequeno
 
 # Criando o Listbox para exibir as informações dos dispositivos USB
 lista_dispositivos = tk.Listbox(janela, width=120, height=25)  # Aumentando a largura e a altura do Listbox
